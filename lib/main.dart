@@ -5,7 +5,7 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final appTitle = 'Add Two Numbers';
+    final appTitle = 'Add Two Numbers together';
 
     return MaterialApp(
       title: appTitle,
