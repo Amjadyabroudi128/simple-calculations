@@ -122,7 +122,7 @@ class _AddTwoNumbersState extends State<AddTwoNumbers> {
                 ),),
               Text(result.toString(),
                 style: TextStyle(
-                  fontSize: 30,
+                  fontSize: 35,
                 ),),
             ],
           ),
